@@ -30,7 +30,7 @@ function draw() {
   fill(200);
   ellipse(width/2,420,55,55);
   fill(0);
-  rect(width/2,270,80,150);
+  rect(width/2-30,270,80,150);
   fill(200);
-  rect(width/2,280,80,8);
+  rect(width/2-30,280,80,8);
 }
