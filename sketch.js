@@ -28,9 +28,9 @@ function draw() {
   ellipse(370,155,5,5);
   //corpo
   fill(200);
-  ellipse(350,420,55,55);
+  ellipse(width/2,420,55,55);
   fill(0);
-  rect(310,270,80,150);
+  rect(width/2,270,80,150);
   fill(200);
-  rect(310,280,80,8);
+  rect(width/2,280,80,8);
 }
