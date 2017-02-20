@@ -32,7 +32,7 @@ function draw() {
   
   //corpo
   fill(200);
-  ellipse(310,420,55,55);
+  ellipse(370,420,55,55);
   fill(0);
   rect(310,270,80,150);
   fill(200);
