@@ -6,14 +6,17 @@ function setup() {
 
 function draw() {
   strokeWeight(2);
+  
   //capelli
   line(340,130,325,105);
   line(370,125,380,60);
   line(350,195,350,270);
+  
   //collo
   line(360,195,360,270);
   line(370,195,370,270);
   line(395,150,430,130);
+  
   //testa
   fill(0);
   ellipse(360,160,70,70);
@@ -26,6 +29,7 @@ function draw() {
   ellipse(370,155,30,30);
   fill(100);
   ellipse(370,155,5,5);
+  
   //corpo
   fill(200);
   ellipse(310,420,55,55);
